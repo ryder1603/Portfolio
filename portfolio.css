@@ -1,0 +1,899 @@
+.mediaViewInfo {
+	--web-view-name: Design 2;
+	--web-view-id: Design_2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Design_2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Design_2 {
+	position: absolute;
+	width: 1920px;
+	height: 5751px;
+	background-color: rgba(22,22,26,1);
+	overflow: hidden;
+	--web-view-name: Design 2;
+	--web-view-id: Design_2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Mask_Group_8 {
+	position: absolute;
+	width: 496px;
+	height: 520px;
+	left: 584px;
+	top: 2145px;
+	overflow: visible;
+}
+#Web_Design {
+	left: 726px;
+	top: 2381px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Mask_Group_7 {
+	position: absolute;
+	width: 496px;
+	height: 519px;
+	left: 583px;
+	top: 3325px;
+	overflow: visible;
+}
+#Product_Design {
+	left: 693px;
+	top: 3561px;
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Mask_Group_6 {
+	position: absolute;
+	width: 496px;
+	height: 520px;
+	left: 1150px;
+	top: 2805px;
+	overflow: visible;
+}
+#Mobile_App_Design {
+	left: 1296px;
+	top: 3017px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Mask_Group_5 {
+	position: absolute;
+	width: 496px;
+	height: 520px;
+	left: 578px;
+	top: 2745px;
+	overflow: visible;
+}
+#Wireframe_Case_Study {
+	left: 725px;
+	top: 2957px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 656px;
+	height: 294px;
+	left: 584px;
+	top: 309px;
+	overflow: visible;
+}
+#Graphic_Designer_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 639px;
+	white-space: nowrap;
+	line-height: 104px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(238,238,238,1);
+}
+#UIUX__Full_Stack {
+	left: 0px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 657px;
+	white-space: nowrap;
+	line-height: 104px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(238,238,238,1);
+}
+#Developer {
+	left: 0px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	white-space: nowrap;
+	line-height: 104px;
+	margin-top: -12px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(238,238,238,1);
+}
+#Suraj {
+	left: 584px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(238,238,238,1);
+}
+#User_Interface {
+	left: 584px;
+	top: 1168px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(127,90,240,1);
+}
+#Creating_beautiful_interfaces_ {
+	left: 984px;
+	top: 1168px;
+	position: absolute;
+	overflow: visible;
+	width: 497px;
+	height: 60px;
+	line-height: 33px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(148,161,178,1);
+}
+#User-Experience {
+	left: 584px;
+	top: 1309px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(127,90,240,1);
+}
+#Tackling_each_project_with_a_u {
+	left: 984px;
+	top: 1312px;
+	position: absolute;
+	overflow: hidden;
+	width: 497px;
+	height: 67px;
+	line-height: 33px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(148,161,178,1);
+}
+#Logo_Design {
+	left: 584px;
+	top: 1460px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(127,90,240,1);
+}
+#As_a_logo_is_a_face_of_any_bra {
+	left: 984px;
+	top: 1465px;
+	position: absolute;
+	overflow: hidden;
+	width: 497px;
+	height: 64px;
+	line-height: 33px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(148,161,178,1);
+}
+#Consulting {
+	left: 584px;
+	top: 1610px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(44,182,125,1);
+}
+#Consulting_for_the_companies_w {
+	left: 984px;
+	top: 1615px;
+	position: absolute;
+	overflow: visible;
+	width: 497px;
+	height: 101px;
+	line-height: 33px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(148,161,178,1);
+}
+#Lets_start_a_Project {
+	left: 1532px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(127,90,240,1);
+	text-decoration: underline;
+}
+#GFX__UIUX {
+	left: 584px;
+	top: 1031px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(148,161,178,1);
+}
+#My_name_is_Suraj_Kumar_Im_a_gr {
+	left: 968px;
+	top: 4144px;
+	position: absolute;
+	overflow: visible;
+	width: 625px;
+	height: 227px;
+	line-height: 33px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(148,161,178,1);
+}
+#Some_of_my_favorite_projects {
+	left: 584px;
+	top: 2032px;
+	position: absolute;
+	overflow: visible;
+	width: 491px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(148,161,178,1);
+}
+#About_me {
+	left: 584px;
+	top: 4144px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(238,238,238,1);
+}
+#Uploading_on_Behance_weekly_Sh {
+	left: 1150px;
+	top: 3555px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 94px;
+	line-height: 33px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(148,161,178,1);
+}
+#View_more_projects_on_Behance {
+	left: 1150px;
+	top: 3679px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(44,182,125,1);
+	text-decoration: underline;
+}
+#Rectangle_18 {
+	fill: rgba(36,38,41,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 4671px;
+}
+#Working_with_growing_startups_ {
+	left: 584px;
+	top: 4887px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 147px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Lets_talk_about_your_Product {
+	left: 584px;
+	top: 5064px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,90,240,1);
+	text-decoration: underline;
+}
+#Articles {
+	left: 200px;
+	top: 5188px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(148,161,178,1);
+}
+#Twitter {
+	left: 200px;
+	top: 5248px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(148,161,178,1);
+}
+#Projects {
+	left: 200px;
+	top: 5308px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(148,161,178,1);
+}
+#Instagram {
+	left: 200px;
+	top: 5368px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(148,161,178,1);
+}
+#Social {
+	left: 200px;
+	top: 5128px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(148,161,178,1);
+}
+#Rectangle_19 {
+	fill: rgba(36,38,41,1);
+	stroke: rgba(9,6,6,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	height: 254px;
+	left: 584px;
+	top: 5155px;
+}
+#Rectangle_20 {
+	fill: rgba(36,38,41,1);
+	stroke: rgba(9,6,6,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	height: 254px;
+	left: 896px;
+	top: 5155px;
+}
+#Digital_Designer__Developer {
+	left: 200px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#Completed_Projects {
+	left: 200px;
+	top: 161px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#About_Me {
+	left: 200px;
+	top: 223px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#Consulting__Concepts {
+	left: 200px;
+	top: 285px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#Digital_Designer__Developer_bx {
+	left: 200px;
+	top: 4770px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#Completed_Projects_by {
+	left: 200px;
+	top: 4832px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#About_Me_bz {
+	left: 200px;
+	top: 4894px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#Consulting__Concepts_b {
+	left: 200px;
+	top: 4956px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(148,161,178,1);
+}
+#Consulting_b {
+	left: 604px;
+	top: 5264px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(238,238,238,1);
+}
+#Try_a_Design_Concept {
+	left: 912px;
+	top: 5264px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(238,238,238,1);
+}
+#Consulting_for_companies_with_ {
+	left: 604px;
+	top: 5298px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 87px;
+	line-height: 22.399999618530273px;
+	margin-top: -3.1999998092651367px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(148,161,178,1);
+}
+#Design_concepts_are_great_for_ {
+	left: 912px;
+	top: 5298px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 87px;
+	line-height: 22.399999618530273px;
+	margin-top: -3.1999998092651367px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(148,161,178,1);
+}
+#Group_13 {
+	position: absolute;
+	width: 496px;
+	height: 520px;
+	left: 1150px;
+	top: 2215px;
+	overflow: visible;
+}
+#Mask_Group_12 {
+	position: absolute;
+	width: 496px;
+	height: 520px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Logo__Brand_Visuals {
+	left: 127px;
+	top: 212px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Design_2___3.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 916px;
+	top: 5176px;
+	overflow: visible;
+}
+#Rectangle_24 {
+	opacity: 0;
+	fill: rgba(127,90,240,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#bxl-spring-boot {
+	fill: rgba(127,90,240,1);
+}
+.bxl-spring-boot {
+	overflow: visible;
+	position: absolute;
+	width: 30.083px;
+	height: 30.043px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_5 {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 604px;
+	top: 5175px;
+	overflow: visible;
+}
+#Rectangle_23 {
+	opacity: 0;
+	fill: rgba(127,90,240,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#bxs-user {
+	fill: rgba(127,90,240,1);
+}
+.bxs-user {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 28.5px;
+	left: 4.5px;
+	top: 4.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_9 {
+	position: absolute;
+	width: 544.75px;
+	height: 596.375px;
+	left: 1080px;
+	top: 265.625px;
+	overflow: visible;
+}
+#Mask_Group_2 {
+	opacity: 0.4;
+	position: absolute;
+	width: 328.75px;
+	height: 328.75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	opacity: 0.59;
+	position: absolute;
+	width: 432px;
+	height: 432px;
+	left: 112.75px;
+	top: 164.375px;
+	overflow: visible;
+}
+#Mask_Group_9 {
+	opacity: 0.4;
+	position: absolute;
+	width: 253.308px;
+	height: 253.308px;
+	left: 494.346px;
+	top: 2591.971px;
+	overflow: visible;
+}
+#Group_10 {
+	position: absolute;
+	width: 544.75px;
+	height: 596.375px;
+	left: 1455px;
+	top: 4488.625px;
+	overflow: visible;
+}
+#Mask_Group_11 {
+	opacity: 0.4;
+	position: absolute;
+	width: 328.75px;
+	height: 328.75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_10 {
+	opacity: 0.59;
+	position: absolute;
+	width: 432px;
+	height: 432px;
+	left: 112.75px;
+	top: 164.375px;
+	overflow: visible;
+}
